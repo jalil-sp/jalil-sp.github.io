@@ -1,6 +1,6 @@
 # README
 Site URL: https://jalil-sp.github.io/personal-site/
-Site URL: https://jalil-sp.github.io/personal-site/
+
 Quick start:
 
 ```
